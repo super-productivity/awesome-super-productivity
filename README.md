@@ -52,6 +52,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 - [Developer Productivity](https://super-productivity.com/use-cases/developer-productivity/) - Jira, GitHub, and GitLab integration overview.
 - [All Integrations](https://super-productivity.com/use-cases/integrations/) - GitHub, GitLab, Jira, Gitea, OpenProject, and CalDAV.
 - [Chrome Extension](https://chromewebstore.google.com/detail/super-productivity/ljkbjodfmekklcoibdnhahlaalhihmlb) - Required for Jira access and idle detection in the web app.
+- [Microsoft ToDo Export Tool](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Export Tasks from Microsoft ToDo directly into Super Productivity JSON format.
 
 ## Community
 
