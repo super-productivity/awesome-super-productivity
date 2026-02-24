@@ -29,6 +29,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 - [QuestArc](https://codeberg.org/Nexumia/QuestArc) - Transforms your task completion into an RPG-style adventure. Complete tasks to deal damage to bosses, earn XP, level up, and progress through story-driven productivity quests.
 - [Autoplan](https://github.com/00sapo/sp-autoplan) - Smart non-AI plugin for automatic scheduling of tasks - smarter and free alternative to skedpal, timehero, flowsavvy, reclaim, trevor, motion.
 - [SP-MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
+- [sp-dashboard](https://github.com/dougcooper/sp-dashboard) - A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project breakdowns within a user‑defined date range. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.
 
 ## Articles & Reviews
 
