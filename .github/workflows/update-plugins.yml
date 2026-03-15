@@ -1,0 +1,64 @@
+name: Update Plugins in README
+
+on:
+  schedule:
+    # Run every day at 9:00 UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-plugins:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Download plugins from super-productivity
+        run: |
+          curl -s https://raw.githubusercontent.com/super-productivity/super-productivity/master/src/assets/community-plugins.json -o /tmp/community-plugins.json
+
+      - name: Generate plugins list
+        run: |
+          node -e "
+          const fs = require('fs');
+          
+          // Read community-plugins.json from super-productivity
+          const plugins = JSON.parse(fs.readFileSync('/tmp/community-plugins.json', 'utf8'));
+          
+          // Generate markdown
+          const pluginsList = plugins
+            .map(p => '- [' + p.name + '](' + p.url + ') - ' + p.shortDescription)
+            .join('\n');
+          
+          const pluginsMarkdown = 'The plugin list is generated automatically from [this file](https://github.com/super-productivity/super-productivity/blob/master/src/assets/community-plugins.json)\n\n' + pluginsList;
+          
+          // Read README
+          let readme = fs.readFileSync('README.md', 'utf8');
+          
+          // Replace plugins section
+          const regex = /## Plugins\n\n([\s\S]*?)(?=\n## )/;
+          readme = readme.replace(regex, '## Plugins\n\n' + pluginsMarkdown + '\n\n');
+          
+          // Write back
+          fs.writeFileSync('README.md', readme, 'utf8');
+          console.log('✓ README.md updated');
+          "
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update plugins list from super-productivity"
+            git push origin main
+          fi
