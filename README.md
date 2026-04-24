@@ -34,6 +34,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
 - [Obsidian Integration](https://codeberg.org/sinenomine/sp-obsidian/) - Provides 2-way sync between SP tasks and Obsidian tasks.
 - [MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
+- [Super Productivity MCP](https://github.com/b0x42/Super-Productivity-MCP) - Feature-rich MCP server with 19 tools covering full task CRUD, time tracking summaries, project/tag management, and notifications.
 - [Dashboard](https://github.com/dougcooper/sp-dashboard) - A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project breakdowns within a user‑defined date range. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.
 - [Invoicer](https://github.com/1jamesthompson1/sp-invoicer) - Generate client invoices from tracked time in Super Productivity, with flexible billing periods, itemization levels, and PDF export.
 - [StudyForge Leaderboard](https://github.com/dhananajay-030/studyforge-plugin) - Syncs your daily study time from Super Productivity to the StudyForge leaderboard. Compete with friends, track streaks, and join 7-day study war challenges.
