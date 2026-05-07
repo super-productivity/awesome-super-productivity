@@ -39,6 +39,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Invoicer](https://github.com/1jamesthompson1/sp-invoicer) - Generate client invoices from tracked time in Super Productivity, with flexible billing periods, itemization levels, and PDF export.
 - [StudyForge Leaderboard](https://github.com/dhananajay-030/studyforge-plugin) - Syncs your daily study time from Super Productivity to the StudyForge leaderboard. Compete with friends, track streaks, and join 7-day study war challenges.
 - [Print Tasks](https://codeberg.org/sinenomine/sp-task-print) - Want to go offline but take Super Productivity with you? This plugin provides print layouts for Today, All Tasks, All Projects, by Tag etc.
+- [AI Assistant](https://github.com/ai-eifying/ai-assistant-plugin) - OpenAI-powered AI assistant chat panel. Manage tasks, projects, and tags via natural language with function calling support. Configurable API key, model, and base URL.
 
 
 ## Articles & Reviews
