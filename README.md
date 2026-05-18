@@ -69,6 +69,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Chrome Extension](https://chromewebstore.google.com/detail/super-productivity/ljkbjodfmekklcoibdnhahlaalhihmlb) - Required for Jira access and idle detection in the web app.
 - [Import from Microsoft ToDo](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Import tasks from Microsoft ToDo.
 - [Import from OmniFocus](https://github.com/auino/omnifocus-to-superproductivity) - Import tasks from OmniFocus.
+- [GNOME Shell Extension](https://github.com/ademb2/gnome-shell-extension-super-productivity) - Minimal top panel indicator that displays your current active task and time spent today.
 
 ## Community
 
