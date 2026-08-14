@@ -25,6 +25,8 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 
 ## Plugins
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
+
 The plugin list is generated automatically from [this file](https://github.com/super-productivity/super-productivity/blob/master/src/assets/community-plugins.json)
 
 - [Date Range Reporter Plugin](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
