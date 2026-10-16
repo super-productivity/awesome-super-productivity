@@ -50,6 +50,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Joplin Notes Sync](https://github.com/BigWebstas/SuperProd-Joplin-Sync) - One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.
 - [Bulk Add Tasks](https://github.com/InitialCrow/bulk-add-tasks-plugin) - Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.
 - [Caffeine Tracker](https://github.com/BigWebstas/sp-caffiene-tracker) - Track caffeine intake and correlate it with task completions, focus, and habits in Super Productivity.
+- [Auto Tag Manager](https://github.com/owarimono/super-productivity-auto-tag) - Automatically applies tags to tasks based on keywords in the task title.
 
 
 ## Articles & Reviews
