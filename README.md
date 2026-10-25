@@ -90,6 +90,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Subreddit](https://www.reddit.com/r/superProductivity/) - r/superProductivity on Reddit.
 - [Discord](https://discord.com/invite/KzX9Q3s66b) - Community Discord server.
 - [YouTube Channel](https://www.youtube.com/@superproductivityapp) - Official tutorials and updates.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Download
 
