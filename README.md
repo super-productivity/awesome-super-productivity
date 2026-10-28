@@ -52,6 +52,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Caffeine Tracker](https://github.com/BigWebstas/sp-caffiene-tracker) - Track caffeine intake and correlate it with task completions, focus, and habits in Super Productivity.
 - [Auto Tag Manager](https://github.com/owarimono/super-productivity-auto-tag) - Automatically applies tags to tasks based on keywords in the task title.
 - [YouGile Integration (SuperGile)](https://github.com/SileboxUnderfined/SuperGile) - Two-way sync of YouGile tasks assigned to you: done state, title, deadline, time estimate and time spent.
+- [monday.com Issue Provider](https://github.com/Zoriot/sp-monday) - Search, import, and sync monday.com board items as Super Productivity tasks, including status/done detection and item updates as comments.
 
 
 ## Articles & Reviews
