@@ -117,3 +117,4 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+- [OneMira C1](https://onemira.com/products/c1) - Standalone local AI voice recorder that captures meetings and generates clean Markdown action items and Open Knowledge Format (OKF) Wiki context ($0/month).
