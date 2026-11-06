@@ -27,6 +27,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 
 The plugin list is generated automatically from [this file](https://github.com/super-productivity/super-productivity/blob/master/src/assets/community-plugins.json)
 
+- [Task Colors](https://github.com/Zombiehamser/sp-task-color-plugin) - Choose colors for tasks and subtasks, or apply them automatically by priority. Includes a configurable palette, bulk application and recovery; requires Super Productivity 19.3.1.
 - [Markdown Notes](https://github.com/Zoriot/sp-markdown-notes) - Read-only viewer for Markdown and Obsidian notes from a local folder, grouped by directory and rendered in a side panel.
 - [Date Range Reporter Plugin](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
 - [Archived Tasks Viewer](https://github.com/baiyina/Archived-Tasks-Viewer) - Read-only viewer to browse archived tasks with grouping, filtering, subtasks preview, and theme toggle.
@@ -57,6 +58,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
 - [Daily Quest](https://github.com/super-productivity/ridonculous/tree/main/plugins/daily-quest) - Experimental: an adventure map from a buff to your boss task to a recovery break, with the boss's subtasks as steps along the trail.
 - [Stadium Mode](https://github.com/super-productivity/ridonculous/tree/main/plugins/stadium-mode) - Experimental: a roaring crowd and a stadium announcer for every task you start, finish, postpone or delete. An optional neural voice downloads about 110 MB after you confirm.
+- [Deadlines](https://github.com/Jontata/deadlines-plugin) - List, Calendar, and Timeline views for deadlines and fixed dates in Super Productivity.
 
 
 ## Articles & Reviews
