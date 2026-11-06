@@ -88,6 +88,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Import from OmniFocus](https://github.com/auino/omnifocus-to-superproductivity) - Import tasks from OmniFocus.
 - [GNOME Shell Extension](https://github.com/ademb2/gnome-shell-extension-super-productivity) - Minimal top panel indicator that displays your current active task and time spent today.
 - [Local Bridge (Go)](https://github.com/CameronBrooks11/super-productivity-local-gobridge) - Single-binary MCP server and CLI over the Local REST API. 16 tools for tasks, projects and tags; no plugin or Node runtime required. Includes a store integrity check (`doctor --deep`) and deliberately exposes no delete operation.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running coding agents in parallel git worktrees; tracks time in Super Productivity on the task you focus and marks it done when you merge, via the Local REST API.
 
 ## Community
 
