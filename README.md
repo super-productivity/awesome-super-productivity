@@ -91,6 +91,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [GNOME Shell Extension](https://github.com/ademb2/gnome-shell-extension-super-productivity) - Minimal top panel indicator that displays your current active task and time spent today.
 - [Local Bridge (Go)](https://github.com/CameronBrooks11/super-productivity-local-gobridge) - Single-binary MCP server and CLI over the Local REST API. 16 tools for tasks, projects and tags; no plugin or Node runtime required. Includes a store integrity check (`doctor --deep`) and deliberately exposes no delete operation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running coding agents in parallel git worktrees; tracks time in Super Productivity on the task you focus and marks it done when you merge, via the Local REST API.
+- [FlowTask for Super Productivity](https://github.com/giba0/obisidan-flowtask-sp) - Obsidian plugin that sends checkbox tasks to Super Productivity and syncs completion both ways, with quick capture, a sidebar task panel and time tracking, via the Local REST API.
 
 ## Community
 
