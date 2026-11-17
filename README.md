@@ -36,7 +36,6 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
 - [Auto-Fill Time Spent](https://github.com/MazenMohamed203/auto-fill-time-spent) - Automatically sets Time Spent equal to Time Estimate when completing a task that has no tracked time. Perfect for off-computer activities.
 - [Obsidian Integration](https://codeberg.org/sinenomine/sp-obsidian/) - Provides 2-way sync between SP tasks and Obsidian tasks.
-- [MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
 - [Super Productivity MCP](https://github.com/b0x42/Super-Productivity-MCP) - Feature-rich MCP server with 19 tools covering full task CRUD, time tracking summaries, project/tag management, and notifications.
 - [Dashboard](https://github.com/ahanel13/sp-dashboard) - Time tracked, completed, overdue and late tasks, broken down by day, project and tag over any date range, plus a heatmap of your activity and habits. Share or print any view. English, Spanish and Simplified Chinese.
 - [Invoicer](https://github.com/1jamesthompson1/sp-invoicer) - Generate client invoices from tracked time in Super Productivity, with flexible billing periods, itemization levels, and PDF export.
