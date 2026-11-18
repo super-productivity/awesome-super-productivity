@@ -51,7 +51,6 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Joplin Notes Sync](https://github.com/BigWebstas/SuperProd-Joplin-Sync) - One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.
 - [Bulk Add Tasks](https://github.com/InitialCrow/bulk-add-tasks-plugin) - Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.
 - [Caffeine Tracker](https://github.com/BigWebstas/sp-caffiene-tracker) - Track caffeine intake and correlate it with task completions, focus, and habits in Super Productivity.
-- [Auto Tag Manager](https://github.com/owarimono/super-productivity-auto-tag) - Automatically applies tags to tasks based on keywords in the task title.
 - [YouGile Integration (SuperGile)](https://github.com/SileboxUnderfined/SuperGile) - Two-way sync of YouGile tasks assigned to you: done state, title, deadline, time estimate and time spent.
 - [monday.com Issue Provider](https://github.com/Zoriot/sp-monday) - Search, import, and sync monday.com board items as Super Productivity tasks, including status/done detection and item updates as comments.
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
