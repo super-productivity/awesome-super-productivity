@@ -31,7 +31,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Markdown Notes](https://github.com/Zoriot/sp-markdown-notes) - Read-only viewer for Markdown and Obsidian notes from a local folder, grouped by directory and rendered in a side panel.
 - [Date Range Reporter Plugin](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
 - [Archived Tasks Viewer](https://github.com/baiyina/Archived-Tasks-Viewer) - Read-only viewer to browse archived tasks with grouping, filtering, subtasks preview, and theme toggle.
-- [QuestArc](https://codeberg.org/Nexumia/QuestArc) - Turn your workflow into an adventure! Gamify your tasks with Atomic Habit quests, epic boss fights, earnable badges, and a customizable hero profile.
+- [QuestArc](https://github.com/nexumia-de/quest-arc) - Habits as journeys: walk a path of small habit steps.
 - [AutoPlan](https://codeberg.org/00sapo/sp-autoplan) - Smart non-AI plugin for the automatic scheduling of tasks using priorities assigned automatically based on tags, projects, and time estimation.
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
 - [Auto-Fill Time Spent](https://github.com/MazenMohamed203/auto-fill-time-spent) - Automatically sets Time Spent equal to Time Estimate when completing a task that has no tracked time. Perfect for off-computer activities.
@@ -56,6 +56,8 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
 - [Daily Quest](https://github.com/super-productivity/ridonculous/tree/main/plugins/daily-quest) - Experimental: an adventure map from a buff to your boss task to a recovery break, with the boss's subtasks as steps along the trail.
 - [Stadium Mode](https://github.com/super-productivity/ridonculous/tree/main/plugins/stadium-mode) - Experimental: a roaring crowd and a stadium announcer for every task you start, finish, postpone or delete. An optional neural voice downloads about 110 MB after you confirm.
+- [Cat Court](https://github.com/super-productivity/ridonculous/tree/main/plugins/procrastination-court) - Experimental: put an avoided task before two animated courtroom kittens, make your defense, then start it, add a tiny first step, or dismiss the case.
+- [Desk Pet](https://github.com/super-productivity/ridonculous/tree/main/plugins/desk-pet) - Experimental: Mochi, a rice cake on every page, fed by finished tasks and grumpy about overdue ones. Uses an unofficial hack that a future app update could break; requires Super Productivity 20.0.0.
 - [Deadlines](https://github.com/Jontata/deadlines-plugin) - List, Calendar, and Timeline views for deadlines and fixed dates in Super Productivity.
 - [Gamify](https://github.com/ptrckmgl/sp-gamify) - Earn XP and levels for tasks and habits, keep daily-goal and habit streaks, and lose XP for overdue tasks and missed habits.
 
